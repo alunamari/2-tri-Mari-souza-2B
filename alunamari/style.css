@@ -1,9 +1,0 @@
-:root{
-    --cor-principal: rgb(160, 211, 200);
-}
-body {
-    background-color: var(--cor-principal);
-}
-h1 {
-    background-color: whitesmoke;
-}
